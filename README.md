@@ -1,4 +1,4 @@
-# Cyberpunk Particle Interface
+# A Very Simple Cyberpunk-Style Particle Interface
 
 > **An interactive Web-based Augmented Reality experience, controlled by hand gestures and rendered with ~12,000 high-performance particles.**
 
@@ -43,9 +43,9 @@ The number of raised fingers changes the text and color of the particles:
 | Gesture | Visual Result | Color (Neon) |
 | --- | --- | --- |
 | **1 Finger** | Text: "Hello" | Cyan |
-| **2 Fingers** | Text: "生き甲斐" (Ikigai) | Yellow |
-| **3 Fingers** | Text: "Вукојѐбина" | Pink |
-| **4 Fingers** | Text: "Schützengrabenvernichtungspanzerkraftwagen" | Green |
+| **2 Fingers** | Text: "生き甲斐" (Ikigai - The Japanese Secret to a Long and Happy Life) | Yellow |
+| **3 Fingers** | Text: "Вукојѐбина" (place in the mid of nowhere) | Pink |
+| **4 Fingers** | Text: "Schützengrabenvernichtungspanzerkraftwagen" (well, some historical transport) | Green |
 | **Open Palm** | **Catch Mode:** Prepares attraction | --- |
 
 ### Right Hand (Physics Interactor)
